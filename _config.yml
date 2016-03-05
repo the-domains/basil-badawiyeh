@@ -1,0 +1,28 @@
+name: Basil Badawiyeh
+favicon: null
+layout_spectrum: 0.5190468346700072
+typography_spectrum: 0.6210598782636225
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5543470308184624
+  lightness: 0.5649044238962233
+  saturation: 0.4924091584980488
+  rhythmicContrast: 0.8032321059145033
+purpose: []
